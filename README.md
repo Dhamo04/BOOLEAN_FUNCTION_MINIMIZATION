@@ -48,6 +48,7 @@ output f2;
 assign f2=((~y & z)|( w & y )|(x & y));
 endmodule
 Developed by:DHAMODHARAN S RegisterNumber:25009463
+```
 
 
 **RTL realization**
